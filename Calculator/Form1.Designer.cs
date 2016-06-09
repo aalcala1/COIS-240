@@ -40,16 +40,18 @@
             // lblDesplegar
             // 
             this.lblDesplegar.AutoSize = true;
-            this.lblDesplegar.Location = new System.Drawing.Point(22, 19);
+            this.lblDesplegar.Location = new System.Drawing.Point(33, 29);
+            this.lblDesplegar.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblDesplegar.Name = "lblDesplegar";
-            this.lblDesplegar.Size = new System.Drawing.Size(0, 13);
+            this.lblDesplegar.Size = new System.Drawing.Size(0, 20);
             this.lblDesplegar.TabIndex = 1;
             // 
             // btn1
             // 
-            this.btn1.Location = new System.Drawing.Point(25, 81);
+            this.btn1.Location = new System.Drawing.Point(38, 125);
+            this.btn1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btn1.Name = "btn1";
-            this.btn1.Size = new System.Drawing.Size(45, 28);
+            this.btn1.Size = new System.Drawing.Size(68, 43);
             this.btn1.TabIndex = 3;
             this.btn1.Text = "1";
             this.btn1.UseVisualStyleBackColor = true;
@@ -57,56 +59,60 @@
             // 
             // btn2
             // 
-            this.btn2.Location = new System.Drawing.Point(76, 80);
+            this.btn2.Location = new System.Drawing.Point(114, 123);
+            this.btn2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btn2.Name = "btn2";
-            this.btn2.Size = new System.Drawing.Size(52, 29);
+            this.btn2.Size = new System.Drawing.Size(78, 45);
             this.btn2.TabIndex = 4;
             this.btn2.Text = "2";
             this.btn2.UseVisualStyleBackColor = true;
-            //this.btn2.Click += new System.EventHandler(this.button1_Click);
+            this.btn2.Click += new System.EventHandler(this.btn2_Click);
             // 
             // btn3
             // 
-            this.btn3.Location = new System.Drawing.Point(134, 81);
+            this.btn3.Location = new System.Drawing.Point(201, 125);
+            this.btn3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btn3.Name = "btn3";
-            this.btn3.Size = new System.Drawing.Size(56, 29);
+            this.btn3.Size = new System.Drawing.Size(84, 45);
             this.btn3.TabIndex = 5;
             this.btn3.Text = "3";
             this.btn3.UseVisualStyleBackColor = true;
-            //this.btn3.Click += new System.EventHandler(this.btn3_Click_1);
             // 
             // btn4
             // 
-            this.btn4.Location = new System.Drawing.Point(196, 81);
+            this.btn4.Location = new System.Drawing.Point(294, 125);
+            this.btn4.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btn4.Name = "btn4";
-            this.btn4.Size = new System.Drawing.Size(59, 28);
+            this.btn4.Size = new System.Drawing.Size(88, 43);
             this.btn4.TabIndex = 6;
             this.btn4.Text = "4";
             this.btn4.UseVisualStyleBackColor = true;
             // 
             // btn5
             // 
-            this.btn5.Location = new System.Drawing.Point(261, 82);
+            this.btn5.Location = new System.Drawing.Point(392, 126);
+            this.btn5.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btn5.Name = "btn5";
-            this.btn5.Size = new System.Drawing.Size(52, 28);
+            this.btn5.Size = new System.Drawing.Size(78, 43);
             this.btn5.TabIndex = 7;
             this.btn5.Text = "5";
             this.btn5.UseVisualStyleBackColor = true;
             // 
             // btn6
             // 
-            this.btn6.Location = new System.Drawing.Point(25, 130);
+            this.btn6.Location = new System.Drawing.Point(38, 200);
+            this.btn6.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btn6.Name = "btn6";
-            this.btn6.Size = new System.Drawing.Size(45, 33);
+            this.btn6.Size = new System.Drawing.Size(68, 51);
             this.btn6.TabIndex = 8;
             this.btn6.Text = "6";
             this.btn6.UseVisualStyleBackColor = true;
             // 
             // Calculator
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(342, 275);
+            this.ClientSize = new System.Drawing.Size(513, 423);
             this.Controls.Add(this.btn6);
             this.Controls.Add(this.btn5);
             this.Controls.Add(this.btn4);
@@ -114,6 +120,7 @@
             this.Controls.Add(this.btn2);
             this.Controls.Add(this.btn1);
             this.Controls.Add(this.lblDesplegar);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Calculator";
             this.Text = "Calculator";
             this.ResumeLayout(false);
