@@ -1,0 +1,6 @@
+C:\Users\Angel Andres\Desktop\Visual Studio\COIS-240\Person\bin\Debug\Person.exe.config
+C:\Users\Angel Andres\Desktop\Visual Studio\COIS-240\Person\bin\Debug\Person.exe
+C:\Users\Angel Andres\Desktop\Visual Studio\COIS-240\Person\bin\Debug\Person.pdb
+C:\Users\Angel Andres\Desktop\Visual Studio\COIS-240\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+C:\Users\Angel Andres\Desktop\Visual Studio\COIS-240\Person\obj\Debug\Person.exe
+C:\Users\Angel Andres\Desktop\Visual Studio\COIS-240\Person\obj\Debug\Person.pdb

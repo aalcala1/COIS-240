@@ -1,0 +1,6 @@
+C:\Users\Angel Andres\Desktop\Visual Studio\COIS-240\Planet\bin\Debug\Planet.exe.config
+C:\Users\Angel Andres\Desktop\Visual Studio\COIS-240\Planet\bin\Debug\Planet.exe
+C:\Users\Angel Andres\Desktop\Visual Studio\COIS-240\Planet\bin\Debug\Planet.pdb
+C:\Users\Angel Andres\Desktop\Visual Studio\COIS-240\Planet\obj\Debug\Planet.csprojResolveAssemblyReference.cache
+C:\Users\Angel Andres\Desktop\Visual Studio\COIS-240\Planet\obj\Debug\Planet.exe
+C:\Users\Angel Andres\Desktop\Visual Studio\COIS-240\Planet\obj\Debug\Planet.pdb
