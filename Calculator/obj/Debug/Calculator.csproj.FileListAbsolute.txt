@@ -7,3 +7,6 @@ C:\Users\Angel Andres\Desktop\Visual Studio\COIS-240\Calculator\obj\Debug\Calcul
 C:\Users\Angel Andres\Desktop\Visual Studio\COIS-240\Calculator\obj\Debug\Calculator.exe
 C:\Users\Angel Andres\Desktop\Visual Studio\COIS-240\Calculator\obj\Debug\Calculator.pdb
 C:\Users\Angel Andres\Desktop\Visual Studio\COIS-240\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\elvyn_335orrg\Google Drive\AnaGMendez\COIS240\cloneAngel\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\elvyn_335orrg\Google Drive\AnaGMendez\COIS240\cloneAngel\Calculator\obj\Debug\Calculator.exe
+C:\Users\elvyn_335orrg\Google Drive\AnaGMendez\COIS240\cloneAngel\Calculator\obj\Debug\Calculator.pdb
